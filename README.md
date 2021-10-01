@@ -28,7 +28,7 @@ $ node -v
 v8.9.1
 ```
 
-### Clone Repo
+### Clone the Repo
 
 ```
 git clone https://github.com/ankitsaxena21/React-Skeleton-Loading-UI.git
