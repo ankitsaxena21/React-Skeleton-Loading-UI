@@ -1,6 +1,6 @@
 # React-Skeleton-Loading-UI
 
-Source code for a medium blog I wrote about implementing skeleton loading screens in a react project.
+Source code for a medium blog that I wrote about implementing skeleton loading screens in a reactjs project.
 
 ### Screenshot
 
